@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * form_binary - function to handle %b specifier
+ * form_binary - the function to handle %b specifier
  *
  * @argf: pointer char to print
  *
