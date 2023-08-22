@@ -6,7 +6,7 @@
 #include <stdbool.h>
 
 /**
- * struct specifier - structure
+ * struct specifier - the structure
  *
  * @specifier: format specifier
  * @f: function selection
